@@ -40,13 +40,13 @@
                 }
                 { ninjas.SiteContentFactory.createDivider() }
 
-                <a target="_blank" title="Coding Ninjas on GitHub" href="https://github.com/mayflower/coding-ninjas/issues">
+                <a target="_blank" title="Coding Ninjas on GitHub" href="https://github.com/mayflower/coding-ninjas/">
                     { ninjas.SiteContentFactory.createAvatar( "", "github" ) }
                 </a>
                 {
                     ninjas.SiteContentFactory.createParagraph
                     (
-                        "Find the source on <a target=\"_blank\" title=\"Coding Ninjas on GitHub\" href=\"https://github.com/mayflower/coding-ninjas/issues\">GitHub</a>",
+                        "Find the source on <a target=\"_blank\" title=\"Coding Ninjas on GitHub\" href=\"https://github.com/mayflower/coding-ninjas/\">GitHub</a>",
                         "sitePanel defaultParagraph avatarLine"
                     )
                 }
