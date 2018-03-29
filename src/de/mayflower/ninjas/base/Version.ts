@@ -7,11 +7,13 @@
     *******************************************************************************************************************/
     export class Version
     {
+        /** The project's version v.1.0.0. */
+        private     static  readonly    V_1_0_0                 :Version            = new Version( "1.0.0", "MVP", "29.03.2018, 14:51:17 GMT+1" );
         /** The project's version v.0.0.1. */
         private     static  readonly    V_0_0_1                 :Version            = new Version( "0.0.1", "PRIMAL", "26.01.2018, 16:00:00 GMT+1" );
 
         /** The project's current version. */
-        public      static  readonly    CURRENT_VERSION         :Version            = Version.V_0_0_1;
+        public      static  readonly    CURRENT_VERSION         :Version            = Version.V_1_0_0;
 
         /** This version's specifier. */
         private                         version                 :string             = null;
