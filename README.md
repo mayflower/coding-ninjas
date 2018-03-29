@@ -1,4 +1,4 @@
-![Coding Ninjas](https://git.mayflower.de/christopher.stock/coding-ninjas/raw/master/dist/res/image/promo/promo.jpg)
+![Coding Ninjas](https://raw.githubusercontent.com/mayflower/coding-ninjas/master/dist/res/image/promo/promo.jpg)
 An example Node.js project for the [Würzburg Web Week 2018](https://wueww.de/)
 
 ## Installing all Node.js packages

@@ -6,8 +6,8 @@
     "license": "MIT",
     "main": "dist/index.html",
     "homepage": "https://mayflower.de/ninjas",
-    "repository": "https://git.mayflower.de/christopher.stock/coding-ninjas",
-    "bugs": "https://git.mayflower.de/christopher.stock/coding-ninjas/issues",
+    "repository": "https://github.com/mayflower/coding-ninjas",
+    "bugs": "https://github.com/mayflower/coding-ninjas/issues",
     "scripts": {
         "start": "npm run build:dev",
         "build:dev": "webpack --watch",
