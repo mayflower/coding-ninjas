@@ -1,6 +1,6 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
-#node.js
+# node.js
 node_modules
 
 # system & ide
@@ -11,4 +11,4 @@ node_modules
 # build and target paths
 bin
 doc
-/dist/js/
+#/dist/js/
